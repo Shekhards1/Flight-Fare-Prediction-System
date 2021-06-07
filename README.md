@@ -10,4 +10,5 @@ The features used to predict the price of the car are -
 - Destination
 - Number of Stopages
 - Airline Name
-- 
+
+The web application is developed using Python's Flask framework.
