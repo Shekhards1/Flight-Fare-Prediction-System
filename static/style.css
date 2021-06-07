@@ -1,0 +1,12 @@
+body {
+    background-image: url(aeroplane.jpeg);
+    text-align: center;
+}
+
+a {
+    color: #4e95c4;
+}
+
+a:hover {
+    color: #600ae9ad;
+  }
