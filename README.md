@@ -12,3 +12,13 @@ The features used to predict the price of the car are -
 - Airline Name
 
 The web application is developed using Python's Flask framework.
+
+# Project Structure
+- flightfarepredictor.ipynb -> This file contains the code for machine learning model written in Python.
+- Data_Train.xlsx -> It is an excel file used for training the model.
+- Test_set.xlsx -> It is an excel file used for testing the accuracy of the model.
+- app.py -> This file contains the backend code for the website using Flask framework.
+- flight_rf.pkl -> This file contains the pickle file generated after saving the model.
+- templates -> This folder contains the html file that is the front end code of the website.
+- static -> This folder contains the static files like CSS files and images.
+
