@@ -27,4 +27,3 @@ The web application is developed using Python's Flask framework.
 
 ![image](https://user-images.githubusercontent.com/71866560/121001051-82edfc80-c7a8-11eb-901e-6c9604dcb4de.png)
 
-
