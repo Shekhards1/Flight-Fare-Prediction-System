@@ -5,7 +5,7 @@ It is a machine learning based project used to predict the value of the flight f
 
 The features used to predict the price of the car are -
 - Date & Time of Departure
-- Date % Time of Arrival
+- Date & Time of Arrival
 - Source
 - Destination
 - Number of Stopages
